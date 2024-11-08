@@ -1,6 +1,6 @@
 # playwright-testing_one
 
-The solution to the first question.
+This contains the solution for the first question in the assignment.
 
 Used Page Object Model approach.
 
